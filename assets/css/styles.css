@@ -625,6 +625,11 @@ a {
     justify-content: center;
     width: 28px;
     height: 28px;
+    background-color: #f9f9f9;
+}
+
+.footer .social-link:hover {
+    background-color: #ebebeb;
 }
 
 .footer .row-bottom {
